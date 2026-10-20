@@ -1,0 +1,8 @@
+# Build outputs
+build-client/
+Server/a.out
+# IDE and local artifacts
+.vscode/
+.resume_edit_tmp/
+*.user
+*.pro.user*

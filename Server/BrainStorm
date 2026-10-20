@@ -1,0 +1,18 @@
+[2026-06-17 19:38:03.474] [BrainStorm] [info] 0 * 0 equals          0
+[2026-06-17 19:38:03.474] [BrainStorm] [info] 1 * 1 equals          1
+[2026-06-17 19:38:03.474] [BrainStorm] [info] 2 * 2 equals          4
+[2026-06-17 19:38:03.474] [BrainStorm] [info] 3 * 3 equals          9
+[2026-06-17 19:38:03.474] [BrainStorm] [info] 4 * 4 equals         16
+[2026-06-17 19:38:03.474] [BrainStorm] [info] 5 * 5 equals         25
+[2026-06-17 19:38:03.474] [BrainStorm] [info] 6 * 6 equals         36
+[2026-06-17 19:38:03.474] [BrainStorm] [info] 7 * 7 equals         49
+[2026-06-17 19:38:03.474] [BrainStorm] [info] 8 * 8 equals         64
+[2026-06-17 19:38:03.474] [BrainStorm] [info] 9 * 9 equals         81
+[2026-06-18 02:10:46.279] [BrainStorm] [error] 连接数据库失败：Access denied for user 'root'@'localhost' (using password: YES)
+[2026-06-18 02:10:54.521] [BrainStorm] [error] 连接数据库失败：Access denied for user 'root'@'localhost' (using password: YES)
+[2026-06-18 02:11:51.021] [BrainStorm] [error] 连接数据库失败：Access denied for user 'root'@'localhost' (using password: YES)
+[2026-06-18 02:12:36.209] [BrainStorm] [error] 连接数据库失败：Access denied for user 'root'@'localhost' (using password: YES)
+[2026-06-18 17:51:42.815] [BrainStorm] [info] 有一个新连接[192.168.234.1:4831]
+[2026-06-18 17:54:29.084] [BrainStorm] [error] mysql_query error!
+[2026-06-18 17:54:29.086] [BrainStorm] [error] Register insert user error
+[2026-06-18 17:57:39.631] [BrainStorm] [info] 有一个新连接[192.168.234.1:3881]

@@ -1,0 +1,16 @@
+[Unit]
+Description=Online Quiz Server
+After=network.target mysql.service
+Requires=mysql.service
+
+[Service]
+Type=simple
+User=jsetc
+WorkingDirectory=/home/jsetc/quiz-system
+Environment=QUIZ_DB_PASSWORD=Quiz@12345678
+ExecStart=/home/jsetc/quiz-system/Server/build/quiz_server
+Restart=on-failure
+RestartSec=2
+
+[Install]
+WantedBy=multi-user.target
