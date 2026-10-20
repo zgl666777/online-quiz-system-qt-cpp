@@ -6,3 +6,6 @@ Server/a.out
 .resume_edit_tmp/
 *.user
 *.pro.user*
+
+Client/build/
+
